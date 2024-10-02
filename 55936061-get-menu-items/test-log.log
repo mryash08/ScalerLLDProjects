@@ -1,0 +1,43 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.assignments:question >----------------------
+[INFO] Building question 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ question ---
+[INFO] skip non existing resourceDirectory /config/workspace/src/main/resources
+[INFO] skip non existing resourceDirectory /config/workspace/src/main/resources
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ question ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 17 source files with javac [debug release 17] to target/classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ question ---
+[INFO] skip non existing resourceDirectory /config/workspace/src/test/resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ question ---
+[INFO] Changes detected - recompiling the module! :dependency
+[INFO] Compiling 1 source file with javac [debug release 17] to target/test-classes
+[INFO] /config/workspace/src/test/java/com/scaler/controllers/TestMenuControllers.java: /config/workspace/src/test/java/com/scaler/controllers/TestMenuControllers.java uses unchecked or unsafe operations.
+[INFO] /config/workspace/src/test/java/com/scaler/controllers/TestMenuControllers.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- surefire:3.0.0:test (default-test) @ question ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.scaler.controllers.TestMenuControllers
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.132 s - in com.scaler.controllers.TestMenuControllers
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.351 s
+[INFO] Finished at: 2024-10-01T06:16:48Z
+[INFO] ------------------------------------------------------------------------

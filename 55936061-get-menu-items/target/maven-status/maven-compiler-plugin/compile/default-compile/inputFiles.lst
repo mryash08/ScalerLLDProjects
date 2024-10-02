@@ -1,0 +1,17 @@
+/config/workspace/src/main/java/com/scaler/models/Customer.java
+/config/workspace/src/main/java/com/scaler/dtos/GetMenuItemsResponseDto.java
+/config/workspace/src/main/java/com/scaler/repositories/MenuRepository.java
+/config/workspace/src/main/java/com/scaler/models/ItemType.java
+/config/workspace/src/main/java/com/scaler/models/MenuItem.java
+/config/workspace/src/main/java/com/scaler/services/MenuServiceImpl.java
+/config/workspace/src/main/java/com/scaler/dtos/ResponseStatus.java
+/config/workspace/src/main/java/com/scaler/models/DietaryRequirement.java
+/config/workspace/src/main/java/com/scaler/services/MenuService.java
+/config/workspace/src/main/java/com/scaler/models/Bill.java
+/config/workspace/src/main/java/com/scaler/repositories/MenuRepoImpl.java
+/config/workspace/src/main/java/com/scaler/controllers/MenuController.java
+/config/workspace/src/main/java/com/scaler/models/Order.java
+/config/workspace/src/main/java/com/scaler/models/UserType.java
+/config/workspace/src/main/java/com/scaler/dtos/GetMenuItemsRequestDto.java
+/config/workspace/src/main/java/com/scaler/models/BaseModel.java
+/config/workspace/src/main/java/com/scaler/models/User.java
