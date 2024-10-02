@@ -1,0 +1,15 @@
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Game.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Board.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Bot.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Move.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/exceptions/GameInvalidationException.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/GameState.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/strategies/WinningStrategy.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Symbol.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/exceptions/InvalidMoveException.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Cell.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/Player.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/models/CellState.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/strategies/WinningStrategyImpl.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/TttWinnerCheckerStarterApplication.java
+/config/workspace/src/main/java/com/example/tttwinnerchecker/controllers/GameController.java
