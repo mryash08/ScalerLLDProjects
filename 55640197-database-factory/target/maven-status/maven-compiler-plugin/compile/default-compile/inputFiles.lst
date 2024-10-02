@@ -1,0 +1,6 @@
+/config/workspace/src/main/java/com/example/databaseconnection/Database.java
+/config/workspace/src/main/java/com/example/databaseconnection/DatabaseType.java
+/config/workspace/src/main/java/com/example/databaseconnection/DatabaseFactory.java
+/config/workspace/src/main/java/com/example/databaseconnection/PostgreSQLDatabase.java
+/config/workspace/src/main/java/com/example/databaseconnection/MongoDBDatabase.java
+/config/workspace/src/main/java/com/example/databaseconnection/MySQLDatabase.java
