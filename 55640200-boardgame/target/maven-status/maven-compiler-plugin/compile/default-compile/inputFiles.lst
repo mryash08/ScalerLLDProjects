@@ -1,0 +1,6 @@
+/config/workspace/src/main/java/com/example/boardgamecreation/ChessBoardGame.java
+/config/workspace/src/main/java/com/example/boardgamecreation/GameType.java
+/config/workspace/src/main/java/com/example/boardgamecreation/SnakeLadderBoardGame.java
+/config/workspace/src/main/java/com/example/boardgamecreation/BoardGame.java
+/config/workspace/src/main/java/com/example/boardgamecreation/TicTacToeBoardGame.java
+/config/workspace/src/main/java/com/example/boardgamecreation/BoardGameFactory.java
