@@ -1,0 +1,12 @@
+/config/workspace/src/main/java/com/example/getrooms/models/Room.java
+/config/workspace/src/main/java/com/example/getrooms/dtos/GetRoomsRequestDto.java
+/config/workspace/src/main/java/com/example/getrooms/models/BaseModel.java
+/config/workspace/src/main/java/com/example/getrooms/controllers/RoomController.java
+/config/workspace/src/main/java/com/example/getrooms/models/RoomType.java
+/config/workspace/src/main/java/com/example/getrooms/repositories/RoomRepository.java
+/config/workspace/src/main/java/com/example/getrooms/dtos/ResponseStatus.java
+/config/workspace/src/main/java/com/example/getrooms/dtos/GetRoomsResponseDto.java
+/config/workspace/src/main/java/com/example/getrooms/repositories/RoomRepositoryimpl.java
+/config/workspace/src/main/java/com/example/getrooms/services/RoomService.java
+/config/workspace/src/main/java/com/example/getrooms/models/User.java
+/config/workspace/src/main/java/com/example/getrooms/services/Bookroom.java
