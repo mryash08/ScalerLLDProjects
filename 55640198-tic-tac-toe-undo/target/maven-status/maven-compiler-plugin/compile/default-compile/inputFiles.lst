@@ -1,0 +1,16 @@
+/config/workspace/src/main/java/com/example/tttundo/models/GameState.java
+/config/workspace/src/main/java/com/example/tttundo/models/Player.java
+/config/workspace/src/main/java/com/example/tttundo/Main.java
+/config/workspace/src/main/java/com/example/tttundo/models/Move.java
+/config/workspace/src/main/java/com/example/tttundo/models/Symbol.java
+/config/workspace/src/main/java/com/example/tttundo/models/Game.java
+/config/workspace/src/main/java/com/example/tttundo/controllers/GameController.java
+/config/workspace/src/main/java/com/example/tttundo/models/Board.java
+/config/workspace/src/main/java/com/example/tttundo/strategies/WinningStrategyImpl.java
+/config/workspace/src/main/java/com/example/tttundo/models/Bot.java
+/config/workspace/src/main/java/com/example/tttundo/models/CellState.java
+/config/workspace/src/main/java/com/example/tttundo/exceptions/InvalidMoveException.java
+/config/workspace/src/main/java/com/example/tttundo/models/Cell.java
+/config/workspace/src/main/java/com/example/tttundo/exceptions/EmptyMovesException.java
+/config/workspace/src/main/java/com/example/tttundo/exceptions/GameInvalidationException.java
+/config/workspace/src/main/java/com/example/tttundo/strategies/WinningStrategy.java
